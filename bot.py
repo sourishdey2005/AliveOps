@@ -3,9 +3,12 @@ import time
 import random
 
 URLS = [
-    "https://app1.streamlit.app",
-    "https://app2.streamlit.app",
-    "https://app3.streamlit.app"
+    "https://arthgyan-site.streamlit.app/",
+    "https://bizsight-ai---business-intelligence-platform.streamlit.app/",
+    "https://market-regime-shift-detector.streamlit.app/"
+    "https://monte-carlo-option-pricing-dashboard.streamlit.app/"
+    "https://monte-carlo-stimulation.streamlit.app/"
+    "https://quant-analytics-app.streamlit.app/"
 ]
 
 BOTS_PER_APP = 2  # keep low to avoid detection
